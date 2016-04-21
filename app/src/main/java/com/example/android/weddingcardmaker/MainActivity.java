@@ -7,9 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
-/**
- * This app displays an order form to order coffee.
- */
+
 public class MainActivity extends ActionBarActivity {
     public static String nameg;
     public static String nameb;
@@ -44,8 +42,6 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-    /**
-     * This method displays the given quantity value on the screen.
-     */
+
 
 }
