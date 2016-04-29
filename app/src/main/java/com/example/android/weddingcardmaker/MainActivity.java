@@ -1,12 +1,12 @@
 package com.example.android.weddingcardmaker;
 
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
-
 
 public class MainActivity extends ActionBarActivity {
     public static String nameg;
@@ -42,6 +42,8 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-
+    /**
+     * This method displays the given quantity value on the screen.
+     */
 
 }
